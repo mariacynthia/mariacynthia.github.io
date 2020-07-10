@@ -6,8 +6,8 @@ subtitle: Bringing Science to Society
 
 Science is awesome.
 
-- But science is not technology.
-- And technology is not product.
+ But science is not technology.
+ And technology is not product.
 
 _Product is what touches lives!_
 
