@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # Name of website
-title: Cynthia's own
+title: M Cynthia Goh
 
 # Short description of your site
-description: Science to Society
+description: bringing science to society
 
 # Your name to show in the footer
 author: M Cynthia Goh
@@ -13,10 +13,12 @@ author: M Cynthia Goh
 
 navbar-links:
   About Me: "aboutme"
+  Blogs: "myblogs"
+  The Global Lighting Challenge: "Lighting"
   Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "http://www.gohlab.com"
+  Scientific Research: "http://www.gohlab.com"
 
 # --- Logo --- #
 
@@ -88,7 +90,7 @@ navbar-col: "#7B68EE"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFF0F5"
-link-col: "#008AFF"
+link-col: "#000000"
 hover-col: "#0085A1"
 footer-col: "#7B68EE"
 footer-text-col: "#777777"
