@@ -12,11 +12,11 @@ author: M Cynthia Goh
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Science to Society"
   Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://http://www.gohlab.com"
+  Author's home: "http://www.gohlab.com"
 
 # --- Logo --- #
 
