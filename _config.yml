@@ -12,7 +12,7 @@ author: M Cynthia Goh
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Science to Society"
+  About Me: "aboutme"
   Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
@@ -87,10 +87,10 @@ excerpt_length: 50
 navbar-col: "#7B68EE"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
-page-col: "#FFFFFF"
+page-col: "#FFF0F5"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
+footer-col: "#7B68EE"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
