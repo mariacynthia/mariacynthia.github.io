@@ -13,7 +13,7 @@ author: M Cynthia Goh
 
 navbar-links:
   About Me: "aboutme"
-  Blogs: "/_posts/Bye UTE"
+  Blogs: "Goodbye UTE"
   The Global Lighting Challenge: "Lighting"
   Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -92,7 +92,7 @@ navbar-border-col: "#EAEAEA"
 page-col: "#FFF0F5"
 link-col: "#000000"
 hover-col: "#0085A1"
-footer-col: "#7B68EE"
+footer-col: "#E6E6FA"
 footer-text-col: "#000000"
 footer-link-col: "#404040"
 
